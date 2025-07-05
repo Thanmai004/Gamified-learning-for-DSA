@@ -161,6 +161,7 @@
 **SEGMENT TREE ALGORITHMS**
   1. Range Query 
   2. Update Query
+  
 -->
 
 <!--
